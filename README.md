@@ -1,8 +1,14 @@
 # ATLAS - AI GeoGuessr Cheat and Bot
 
+<p align="center">
+  <img src="logo.png" alt="ATLAS" width="120" />
+</p>
+
 The most advanced AI-powered GeoGuessr tool available. ATLAS predicts any location in seconds with high accuracy across 108 countries.
 
 Get started at https://geoguessrcheats.com
+
+![ATLAS App](app-screenshot.png)
 
 
 ## About
