@@ -84,7 +84,7 @@ optional. Minimum: Windows 10/11, 8 GB RAM, 2 GB disk space.
 The Basic plan starts at 9.99 per month and includes the AI prediction engine. The Pro and
 Premium plans unlock the full Auto-Guess bot mode for automatic gameplay. Cancel anytime.
 
-View all plans at https://geoguessrcheats.com/#plans
+View all plans at https://geoguessrcheats.com/plans
 
 
 ## Community
@@ -97,7 +97,11 @@ https://discord.gg/pFzUkAjTHr
 ## Links
 
 - **Website:** https://geoguessrcheats.com
-- **Plans:** https://geoguessrcheats.com/#plans
+- **Plans and pricing:** https://geoguessrcheats.com/plans
+- **Player reviews:** https://geoguessrcheats.com/reviews
+- **FAQ:** https://geoguessrcheats.com/faq
+- **How the GeoGuessr bot works:** https://geoguessrcheats.com/geoguessr-bot
+- **Blog and guides:** https://geoguessrcheats.com/blog/
 - **Discord:** https://discord.gg/pFzUkAjTHr
 
 ---
