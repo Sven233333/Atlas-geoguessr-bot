@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://geoguessrcheats.com"><b>Get started at geoguessrcheats.com</b></a> &middot;
-  <a href="https://discord.gg/pFzUkAjTHr">Join the Discord</a>
+  <a href="https://discord.gg/zwYXRgRRHc">Join the Discord</a>
 </p>
 
 ![ATLAS GeoGuessr bot app interface with Duels, NMPZ and Auto-Guess](app-screenshot.png)
@@ -91,7 +91,7 @@ View all plans at https://geoguessrcheats.com/plans
 
 Join the Discord for updates, support and to chat with other players.
 
-https://discord.gg/pFzUkAjTHr
+https://discord.gg/zwYXRgRRHc
 
 
 ## Links
@@ -102,7 +102,7 @@ https://discord.gg/pFzUkAjTHr
 - **FAQ:** https://geoguessrcheats.com/faq
 - **How the GeoGuessr bot works:** https://geoguessrcheats.com/geoguessr-bot
 - **Blog and guides:** https://geoguessrcheats.com/blog/
-- **Discord:** https://discord.gg/pFzUkAjTHr
+- **Discord:** https://discord.gg/zwYXRgRRHc
 
 ---
 
