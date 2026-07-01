@@ -78,6 +78,22 @@ any cheat tool is against GeoGuessr's terms of service, so use at your own discr
 No. ATLAS works on any modern Windows PC. An NVIDIA GPU makes predictions faster but is
 optional. Minimum: Windows 10/11, 8 GB RAM, 2 GB disk space.
 
+**Is there a free GeoGuessr cheat?**
+Free GeoGuessr cheats and scripts do exist, but they are almost always browser extensions
+or userscripts that inject code into the game, which makes them easy to detect and far
+less accurate. ATLAS is a paid desktop app with a much stronger AI engine. The Basic plan
+starts at 9.99 per month.
+
+**How do I download and install the bot?**
+Download the launcher from geoguessrcheats.com, run it, and enter your license key. The
+launcher installs the app and keeps it updated automatically, so you always have the
+latest version without reinstalling anything.
+
+**How accurate is the AI?**
+It identifies the correct country roughly 4 out of 5 times, and on its strongest games it
+averages under 100 km per guess. ATLAS reads road signs, vegetation, road markings and
+architecture to place the location across all 108 supported countries.
+
 
 ## Plans
 
