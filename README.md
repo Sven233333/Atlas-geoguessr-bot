@@ -1,14 +1,38 @@
-# ATLAS: an AI GeoGuessr cheat, bot and auto guess solver
+# GeoGuessr Cheat, Hack and Auto Guess Bot: ATLAS
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr cheat and auto guess bot logo" width="120" />
+</p>
+
+<p align="center">
+  <b>An AI GeoGuessr cheat that reads the street view off your screen and names the location in about three seconds.</b><br/>
+  Auto guess for Classic, Duels, Team Duels and the Daily, across Move, No Move and NMPZ. About 81 percent correct country in real ranked games, 111 countries.<br/>
+  <b>One key, every platform:</b> Windows, Steam, Chrome, Firefox, macOS, iPhone and Android.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr cheat" src="https://img.shields.io/github/stars/Sven233333/Atlas-geoguessr-bot?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://geoguessrcheats.com"><img alt="Get the ATLAS GeoGuessr hack at geoguessrcheats.com" src="https://img.shields.io/badge/Get%20ATLAS-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="Join the ATLAS GeoGuessr Discord community" src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Latest version 1.7" src="https://img.shields.io/badge/version-1.7-FF6600?style=for-the-badge">
+  <img alt="Predictions in about three seconds" src="https://img.shields.io/badge/prediction-about%203s-2ecc71?style=for-the-badge">
+  <img alt="111 GeoGuessr countries supported" src="https://img.shields.io/badge/countries-111-3498db?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://geoguessrcheats.com"><b>Get started</b></a> &middot;
+  <a href="https://geoguessrcheats.com/plans">Plans from 14.99 euro</a> &middot;
+  <a href="https://chromewebstore.google.com/detail/geoguesser-cheats-geogues/mggpkondmigmgbgafalghhkagkldinkj">7 free rounds in Chrome</a> &middot;
+  <a href="https://geoguessrcheats.com/reviews">Reviews</a> &middot;
+  <a href="https://discord.gg/zwYXRgRRHc">Discord</a>
+</p>
 
 ATLAS looks at the street view you are already looking at, works out where in the
 world it is, and puts the pin there. On Windows it goes further and plays entire
 sessions on its own. One licence key covers every place it runs: the Windows app,
 the browser extension in Chrome and Firefox, and the iPhone and Android apps.
 
-![The ATLAS desktop app during a live GeoGuessr round, showing the predicted country and coordinates next to the street view](images/app-screenshot-live.webp)
-
-Website: **[geoguessrcheats.com](https://geoguessrcheats.com)**
-Every platform, side by side: **[geoguessrcheats.com/platforms](https://geoguessrcheats.com/platforms)**
+![The ATLAS GeoGuessr cheat during a live round, showing the predicted country and coordinates next to the street view](images/app-screenshot-live.webp)
 
 ---
 
