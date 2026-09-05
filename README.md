@@ -14,6 +14,7 @@
   <a href="https://github.com/Sven233333/Atlas-geoguessr-bot/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr cheat" src="https://img.shields.io/github/stars/Sven233333/Atlas-geoguessr-bot?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://geoguessrcheats.com"><img alt="Get the ATLAS GeoGuessr hack at geoguessrcheats.com" src="https://img.shields.io/badge/Get%20ATLAS-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="Join the ATLAS GeoGuessr Discord community" src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/K63r-8UcvPc"><img alt="Watch the ATLAS GeoGuessr cheat on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Latest version 1.7" src="https://img.shields.io/badge/version-1.7-FF6600?style=for-the-badge">
   <img alt="Predictions in about three seconds" src="https://img.shields.io/badge/prediction-about%203s-2ecc71?style=for-the-badge">
   <img alt="111 GeoGuessr countries supported" src="https://img.shields.io/badge/countries-111-3498db?style=for-the-badge">
@@ -33,6 +34,10 @@ sessions on its own. One licence key covers every place it runs: the Windows app
 the browser extension in Chrome and Firefox, and the iPhone and Android apps.
 
 ![The ATLAS GeoGuessr cheat during a live round, showing the predicted country and coordinates next to the street view](images/app-screenshot-live.webp)
+
+Watch a full session:
+
+[![The ATLAS GeoGuessr cheat naming a country during a live round, video on YouTube](images/video-geoguessr-cheat.jpg)](https://youtu.be/K63r-8UcvPc)
 
 ---
 
